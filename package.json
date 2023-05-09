@@ -1,0 +1,27 @@
+{
+    "name": "everforest-moist",
+    "displayName": "everforest-moist",
+    "description": "This theme is a blended version of the original everfoest themes.",
+    "version": "0.0.1",
+    "LICENSE": "ISC",
+    "publisher": "MrMartian",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CraigglesO/everforest-moist-vscode"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "everforest-moist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/everforest-moist-color-theme.json"
+            }
+        ]
+    }
+}
