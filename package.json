@@ -2,7 +2,7 @@
     "name": "everforest-moist",
     "displayName": "everforest-moist",
     "description": "This theme is a blended version of the original everfoest themes.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "LICENSE": "ISC",
     "publisher": "MrMartian",
     "repository": {
@@ -18,9 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "everforest-moist",
+                "label": "everforest-moist-light",
                 "uiTheme": "vs-dark",
-                "path": "./themes/everforest-moist-color-theme.json"
+                "path": "./themes/everforest-moist-light-color-theme.json"
+            },
+            {
+                "label": "everforest-moist-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/everforest-moist-dark-color-theme.json"
             }
         ]
     }
