@@ -1,13 +1,13 @@
 {
     "name": "everforest-moist",
     "displayName": "everforest-moist",
-    "description": "This theme is a blended version of the original everfoest themes.",
+    "description": "This theme is a blended version of the original everforest themes.",
     "version": "0.0.2",
     "LICENSE": "ISC",
     "publisher": "MrMartian",
     "repository": {
       "type": "git",
-      "url": "https://github.com/CraigglesO/everforest-moist-vscode"
+      "url": "https://github.com/CraigglesO/everforest-moist"
     },
     "engines": {
         "vscode": "^1.63.0"
